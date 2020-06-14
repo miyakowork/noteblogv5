@@ -21,7 +21,7 @@
 
 ---
 ## 截图预览
-<img src="screenshot/个人设置.png" style="width:200px;"/>
+<img src="screenshot/个人设置.png" style="width:100px;!important;"/>
 
 ## 部署教程
 1. 新建 noteblogv5数据库，导入db.sql脚本文件
