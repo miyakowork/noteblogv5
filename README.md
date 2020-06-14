@@ -1,6 +1,7 @@
 点击入群【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】，获取SQL文件（群文件中即可下载）
 
 ## 广告一下
+> 说明：当前项目是【noteblogv5】是开源的，【notepress】为当前项目的重构升级版，具有更多特性
 - 另有船新升级版【NotePress】 ，请点击<a href="http://notepress.wuwenbin.me" target="_blank"> 链接1</a> 或 <a href="http://notepress.vip" target="_blank">链接2</a> 查看
 - 版本对比：[点我](https://wuwenbin.me/content/u/buynotepress) 查看 
 - 授权地址：[点我](https://wuwenbin.me/content/u/npbuy) 前往授权
