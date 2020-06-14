@@ -1,7 +1,7 @@
----
 点击入群【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】，即可获取SQL文件（群文件中即可下载）
 
 ![avatar](noteblogqqgroup.png)
+
 ---
 ## V5的一些改动和升级
 1. jpa --> mybatis-plus，更易上手
