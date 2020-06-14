@@ -19,12 +19,11 @@
 13. 增加评论留言邮件回复
 14. 更多请自行体验，最新信息请加入qq群讨论：697053454
 
----
-## 截图预览
-<img src="screenshot/个人设置.png" style="width:100px;!important;"/>
+> 截图预览的在底部，请往下翻看
 
+---
 ## 部署教程
-1. 新建 noteblogv5数据库，导入db.sql脚本文件
+1. 新建 noteblogv5数据库，导入db.sql脚本文件(加群，群文件可以下载sql)
 2. 采用 nohup java -jar noteblogv5.jar >noteblogv5.log 2>&1 & 后台服务启动即可
 
 ## 更新日志
@@ -86,3 +85,26 @@
 [√] 修复文章数量较少时侧边static栏错位的BUG <br/>
 [√] 修复某些情况下参数缓存实效的BUG <br/>
 [√] 修复提交个人设置时会影响邮箱设置的BUG <br/>
+
+
+---
+## 截图预览
+![](screenshot/个人设置.png)
+![](screenshot/分类与标签管理.png)
+![](screenshot/博客首页1.png)
+![](screenshot/博客首页2.png)
+![](screenshot/博客首页3.png)
+![](screenshot/博客首页4.png)
+![](screenshot/博客首页5.png)
+![](screenshot/博客首页6.png)
+![](screenshot/友链设置.png)
+![](screenshot/发布文章.png)
+![](screenshot/搜索结果页面.png)
+![](screenshot/文章发布.png)
+![](screenshot/文章管理.png)
+![](screenshot/文章详细页面1.png)
+![](screenshot/文章详细页面2.png)
+![](screenshot/文章详细页面3.png)
+![](screenshot/笔记页面1.png)
+![](screenshot/笔记页面2.png)
+![](screenshot/网站设置.png)
