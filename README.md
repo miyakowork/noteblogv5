@@ -2,7 +2,7 @@
 
 ## 广告一下
 > 说明：当前项目是【noteblogv5】是开源的，【notepress】为当前项目的重构升级版，具有更多特性
-- 另有船新升级版【NotePress】 ，请点击<a href="http://notepress.wuwenbin.me" target="_blank"> 链接1</a> 或 <a href="http://notepress.vip" target="_blank">链接2</a> 查看
+- 船新升级版【NotePress】 ，请点击<a href="http://notepress.wuwenbin.me" target="_blank"> 链接1</a> 或 <a href="http://notepress.vip" target="_blank">链接2</a> 查看
 - 版本对比：[点我](https://wuwenbin.me/content/u/buynotepress) 查看 
 - 授权地址：[点我](https://wuwenbin.me/content/u/npbuy) 前往授权
 ---
