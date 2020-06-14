@@ -1,9 +1,7 @@
 点击入群【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】，即可获取SQL文件（群文件中即可下载）
 
-![avatar](noteblogqqgroup.png)
-
 ---
-## V5的一些改动和升级
+## v5的一些改动和升级
 1. jpa --> mybatis-plus，更易上手
 2. 升级 layui 版本和 springboot 版本
 3. 后台管理UI升级为LayuiAdmin
@@ -21,7 +19,6 @@
 
 > 截图预览的在底部，请往下翻看
 
----
 ## 部署教程
 1. 新建 noteblogv5数据库，导入db.sql脚本文件(加群，群文件可以下载sql)
 2. 采用 nohup java -jar noteblogv5.jar >noteblogv5.log 2>&1 & 后台服务启动即可
