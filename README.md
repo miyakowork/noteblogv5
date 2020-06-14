@@ -1,7 +1,7 @@
 点击入群【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】，获取SQL文件（群文件中即可下载）
 
 ## 广告一下
-- 另有船新升级版【NotePress】 ，请前往<a href="http://notepress.vip" target="_blank">notepress 官网</a>查看
+- 另有船新升级版【NotePress】 ，请前往<a href="https://notepress.wuwenbin.me" target="_blank">链接</a> 或 <a href="http://notepress.vip" target="_blank">备用链接</a>查看
 - 版本对比：[点我](https://wuwenbin.me/content/u/buynotepress) 查看 
 - 授权地址：[点我](https://wuwenbin.me/content/u/npbuy) 前往授权
 ---
