@@ -21,7 +21,7 @@
 
 ---
 ## 截图预览
-[请查看](https://gitee.com/wuwenbn/noteblogv5/tree/master/screenshot)
+[请查看](https://gitee.com/miyakowork/noteblogv5/tree/master/screenshot)
 
 ## 部署教程
 1. 新建 noteblogv5数据库，导入db.sql脚本文件
