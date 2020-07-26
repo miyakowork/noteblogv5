@@ -18,6 +18,6 @@ public interface ParamMapper extends BaseMapper<Param> {
      * @param name
      * @param value
      */
-    void updateValueByName(String name, Object value);
+    void updateValueByName(@org.apache.ibatis.annotations.Param("name") String name, @org.apache.ibatis.annotations.Param("value") Object value);
 
 }

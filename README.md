@@ -29,6 +29,9 @@
 2. 采用 nohup java -jar noteblogv5.jar >noteblogv5.log 2>&1 & 后台服务启动即可
 
 ## 更新日志
+### v5.9.3
+[√] 修复mapper 参数找不到的错误
+[√] 修复启动可能存在抛出nep的异常
 ### v5.9.2
 [^] 优化初始化JDBC的连接属性
 ### v5.9.1

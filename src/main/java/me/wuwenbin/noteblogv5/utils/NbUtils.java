@@ -449,16 +449,16 @@ public class NbUtils implements ApplicationContextAware, ServletContextListener 
     }
 
     /**
-     * 执行jar所在的目录路径
+     * 执行jar所在的目录路径，可能存在null问题，修改为 usr.dir
      *
      * @return
      */
     public static String rootPath() {
-        ApplicationHome applicationHome = new ApplicationHome(InitListener.class);
-        File jar = applicationHome.getSource();
-        return jar.getParentFile().toString();
+//        ApplicationHome applicationHome = new ApplicationHome(InitListener.class);
+//        File jar = applicationHome.getSource();
+//        return jar.getParentFile().toString();
+        return System.getProperty("user.dir");
     }
-
     /**
      * 安装文件是否已存在
      *
